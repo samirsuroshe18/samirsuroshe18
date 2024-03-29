@@ -25,20 +25,16 @@ I-am-samirsuroshe18@github
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+<h2 align="center">Languages</h2><br>
 <p align="center">
-
-- **Languages :**
-    
-    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,kotlin,mongodb,mysql,nodejs,py,&perline=14" />
   </a>
 </p>
-
 <br>   
     
-- **Library and Frameworks**:
 
+<h2 align="center">Library and Frameworks</h2><br>
    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs,redux&perline=14" />
@@ -47,8 +43,7 @@ I-am-samirsuroshe18@github
 
 <br>
 
-- **Hosting Platform**:
-
+<h2 align="center">Hosting Platform</h2><br>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vercel,firebase&perline=14" />
@@ -57,7 +52,7 @@ I-am-samirsuroshe18@github
     
 <br>
 
-- **Softwares and Tools**:
+<h2 align="center">Softwares and Tools</h2><br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,git,github,firebase,linux,pycharm,idea&perline=14" />
