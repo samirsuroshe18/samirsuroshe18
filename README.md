@@ -11,13 +11,13 @@ Hi, I'm Samir Suroshe!
 ```
 I-am-samirsuroshe18@github
 -------------------------
-💻 I am a self taught Full Stack Developer(MERN) and a Anddroid Developer
+💻 I am a self taught Anddroid Developer and MERN Devloper
 📚 I have completed Diploma in Computer Engineering from Government Polytechnic Thane
 📝 I have a strong interest in Software Developement
-🔭 Working on Web Development and Android Development
-🌟 Main languages: Java, JavaScript
-🚩 Interested in MERN Stack Application and Android development
-🌱 Learning more about MERN and Android stuff
+🔭 Working on Android Development and Web Development
+🌟 Main languages: Java, Kotlin, JavaScript, mySql, mogodb, php
+🚩 Interested in Android Application and MERN Stack development
+🌱 Learning more about Android and MERN stuff
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr><br>
