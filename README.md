@@ -12,7 +12,6 @@ Hi, I'm Samir Suroshe!
 I-am-samirsuroshe18@github
 -------------------------
 💻 I am a self taught Anddroid Developer and MERN Devloper
-📚 I have completed Diploma in Computer Engineering from Government Polytechnic Thane
 📝 I have a strong interest in Software Developement
 🔭 Working on Android Development and Web Development
 🌟 Main languages: Java, Kotlin, JavaScript, mySql, mogodb, php
