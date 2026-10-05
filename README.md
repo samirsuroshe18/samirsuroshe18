@@ -2,7 +2,15 @@
 Hi, I'm Samir Suroshe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Web+Developer;Android+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Android+Developer;Full+Stack+Web+Developer;Open+Source+Contributor;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<p align="center">
+  <a href="https://samirsuroshe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/samir-suroshe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/SamirSuroshe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@sameersuroshe50"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:sameersuroshe50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <img align="left" src="https://github.com/samirsuroshe18/samirsuroshe18/assets/130245723/95ea3b0b-1718-4708-947b-c185ab8fff4e" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
@@ -11,17 +19,25 @@ Hi, I'm Samir Suroshe!
 ```
 I-am-samirsuroshe18@github
 -------------------------
-💻 I am a self taught Android Developer and MERN Developer
-📝 I have a strong interest in Software Development
-🔭 Working on Android Development and Web Development
-🌟 Main languages: Java, Kotlin, JavaScript, MySQL, MongoDB, PHP
-🚩 Interested in Android Application and MERN Stack development
+💼 Associate Software Developer at Nimap Infotech
+💻 Self taught Android Developer and MERN Developer
+📱 Android with Kotlin, Java, Jetpack Compose and Flutter
+🌐 Web with React, Node.js, Express and MongoDB
+🔓 Open source contributor, with a fix merged into AnkiDroid
 🌱 Learning more about Android and MERN stuff
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
 
-<p align="center"><b>Portfolio:</b> <a href="https://samirsuroshe.vercel.app/">samirsuroshe.vercel.app</a></p>
+## Open Source
+
+| Project | Contribution | Status |
+|---|---|---|
+| [AnkiDroid](https://github.com/ankidroid/Anki-Android), the Android flashcards app with 11k+ stars | [Fix: Enter triggers OK without extra press](https://github.com/ankidroid/Anki-Android/pull/18354). The sync error dialog needed a second key press to close; Enter now confirms it directly. | Merged, June 2025 |
+
+I'm looking for more projects to contribute to, mainly Android (Kotlin, Java),
+Flutter and the JavaScript stack. If you maintain one and have an issue that
+needs a hand, I'd like to hear about it.
 
 ## Experience
 
@@ -30,6 +46,8 @@ I-am-samirsuroshe18@github
 - **Android Developer**, Ignitech (Jun 2023 – Jul 2023)
 
 ## Projects
+
+Every project here has a live site or an APK you can try.
 
 ### Mobile
 
@@ -61,58 +79,72 @@ I-am-samirsuroshe18@github
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
-<h2 align="center">Languages</h2><br>
+<h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,kotlin,dart,mongodb,mysql,nodejs,py,&perline=14" />
-  </a>
-</p>
-<br>   
-    
-
-<h2 align="center">Library and Frameworks</h2><br>
-   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs,redux,flutter&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,py,php,c,cpp,html,css&perline=14" alt="Java, Kotlin, Dart, JavaScript, Python, PHP, C, C++, HTML, CSS" />
   </a>
 </p>
 
-<br>
-
-<h2 align="center">Hosting Platform</h2><br>
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,firebase,aws&perline=14" />
-  </a>
-</p>
-    
-<br>
-
-<h2 align="center">Softwares and Tools</h2><br>
+<h3 align="center">Libraries and Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,git,github,firebase,linux,pycharm,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,nodejs,express,flutter&perline=14" alt="React, Redux, Tailwind CSS, Bootstrap, Node.js, Express, Flutter" />
   </a>
-</p> 
+</p>
 
+<h3 align="center">Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=14" alt="MongoDB, MySQL, Firebase" />
+  </a>
+</p>
 
+<h3 align="center">Hosting Platforms</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,aws,netlify,firebase&perline=14" alt="Vercel, AWS, Netlify, Firebase" />
+  </a>
+</p>
+
+<h3 align="center">Software and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,pycharm,figma,postman,git,github,linux&perline=14" alt="Android Studio, VS Code, IntelliJ IDEA, PyCharm, Figma, Postman, Git, GitHub, Linux" />
+  </a>
 </p>
 
 <br>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samirsuroshe18&theme=dark&hide_border=true#gh-dark-mode-only" alt="Contribution streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=samirsuroshe18&theme=default&hide_border=true#gh-light-mode-only" alt="Contribution streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsuroshe18&layout=compact&langs_count=8&theme=dark&hide_border=true#gh-dark-mode-only" alt="Most used languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsuroshe18&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" alt="Most used languages" height="165" />
+</p>
+
 <br>
 
 -----
 
 <br>
 
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
+
+<li>
+<a href="https://samirsuroshe.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/portfolio:  samirsuroshe.vercel.app-6C47FF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt=portfolio style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
 
 <li>
 <a href="https://www.linkedin.com/in/samir-suroshe/" target="_blank">
@@ -124,7 +156,7 @@ I-am-samirsuroshe18@github
 
 <li>
 <a href="mailto:sameersuroshe50@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Samir Suroshe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Samir Suroshe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -132,13 +164,9 @@ I-am-samirsuroshe18@github
 
 <li>
 <a href="https://x.com/SamirSuroshe" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Samir Suroshe-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/x:  Samir Suroshe-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt=x style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-
-
-
-	
 </ul>
 </div>
