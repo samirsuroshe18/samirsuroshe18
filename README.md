@@ -1,10 +1,27 @@
-# Hi, I'm Samir Suroshe
+<h1 align="center">
+Hi, I'm Samir Suroshe!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Android+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-I'm a software developer who builds Android apps and full-stack web apps.
-On mobile I work with Kotlin, Java and Flutter; on the web with React, Node.js,
-Express and MongoDB.
+<img align="left" src="https://github.com/samirsuroshe18/samirsuroshe18/assets/130245723/95ea3b0b-1718-4708-947b-c185ab8fff4e" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
+<hr>
 
-**Portfolio:** [samirsuroshe.vercel.app](https://samirsuroshe.vercel.app/)
+```
+I-am-samirsuroshe18@github
+-------------------------
+💻 I am a self taught Android Developer and MERN Developer
+📝 I have a strong interest in Software Development
+🔭 Working on Android Development and Web Development
+🌟 Main languages: Java, Kotlin, JavaScript, MySQL, MongoDB, PHP
+🚩 Interested in Android Application and MERN Stack development
+🌱 Learning more about Android and MERN stuff
+🎵 Love metal, lofi, jazz and soft music
+```
+<hr>
+
+<p align="center"><b>Portfolio:</b> <a href="https://samirsuroshe.vercel.app/">samirsuroshe.vercel.app</a></p>
 
 ## Experience
 
@@ -41,27 +58,87 @@ Express and MongoDB.
 | [College Transparency System](https://github.com/samirsuroshe18/college-transparency-system) | HackFusion 2.0 | A portal where a college runs elections, complaints, bookings, applications and budgets in the open | [Live](https://college-transparency-system.vercel.app) |
 | [AlumniNest](https://github.com/samirsuroshe18/alumninest) | Scroll Hacks 2024 | Connects students with alumni for mentorship, job posts and live chat | [Live](https://alumninest-s.vercel.app) |
 
-## Skills
+<br>
 
-**Languages**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,java,kotlin,dart,py,php" alt="JavaScript, Java, Kotlin, Dart, Python, PHP" /></a>
+<h2 align="center">Languages</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,kotlin,mongodb,mysql,nodejs,py,&perline=14" />
+  </a>
+</p>
+<br>   
+    
 
-**Web**
+<h2 align="center">Library and Frameworks</h2><br>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs,redux&perline=14" />
+  </a>
+</p>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql" alt="React, Redux, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, MySQL" /></a>
+<br>
 
-**Mobile**
+<h2 align="center">Hosting Platform</h2><br>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,firebase&perline=14" />
+  </a>
+</p>
+    
+<br>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase" alt="Android Studio, Flutter, Firebase" /></a>
+<h2 align="center">Softwares and Tools</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,git,github,firebase,linux,pycharm,idea&perline=14" />
+  </a>
+</p> 
 
-**Tools and hosting**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,vercel,netlify" alt="Git, GitHub, Postman, VS Code, AWS, Vercel, Netlify" /></a>
+</p>
 
-## Contact
+<br>
+<br>
 
-- Email: [sameersuroshe50@gmail.com](mailto:sameersuroshe50@gmail.com)
-- LinkedIn: [samir-suroshe](https://www.linkedin.com/in/samir-suroshe/)
-- X: [@SamirSuroshe](https://x.com/SamirSuroshe)
-- Medium: [@sameersuroshe50](https://medium.com/@sameersuroshe50)
+-----
+
+<br>
+
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/samir-suroshe/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Samir Suroshe-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:sameersuroshe50@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Samir Suroshe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/SameerSuroshe" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  Samir Suroshe-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+
+
+
+	
+</ul>
+</div>
