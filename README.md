@@ -2,7 +2,7 @@
 Hi, I'm Samir Suroshe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Android+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Web+Developer;Android+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/samirsuroshe18/samirsuroshe18/assets/130245723/95ea3b0b-1718-4708-947b-c185ab8fff4e" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
@@ -25,7 +25,7 @@ I-am-samirsuroshe18@github
 
 ## Experience
 
-- **Associate Software Developer**, Nimap Infotech (Sep 2025 – Aug 2026)
+- **Associate Software Developer**, Nimap Infotech (Sep 2025 – Present)
 - **Software Developer**, Smartdwell Technologies (May 2024 – Sep 2025)
 - **Android Developer**, Ignitech (Jun 2023 – Jul 2023)
 
@@ -66,7 +66,7 @@ I-am-samirsuroshe18@github
 <h2 align="center">Languages</h2><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,kotlin,mongodb,mysql,nodejs,py,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,kotlin,dart,mongodb,mysql,nodejs,py,&perline=14" />
   </a>
 </p>
 <br>   
@@ -75,7 +75,7 @@ I-am-samirsuroshe18@github
 <h2 align="center">Library and Frameworks</h2><br>
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs,redux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs,redux,flutter&perline=14" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ I-am-samirsuroshe18@github
 <h2 align="center">Hosting Platform</h2><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,aws&perline=14" />
   </a>
 </p>
     
@@ -131,7 +131,7 @@ I-am-samirsuroshe18@github
 <br>
 
 <li>
-<a href="https://twitter.com/SameerSuroshe" target="_blank">
+<a href="https://x.com/SamirSuroshe" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  Samir Suroshe-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
