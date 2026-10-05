@@ -31,15 +31,6 @@ I-am-samirsuroshe18@github
 
 ## Projects
 
-### Web
-
-| Project | What it does | Stack | Try it |
-|---|---|---|---|
-| [Fantasy Cricket Predictor](https://github.com/samirsuroshe18/fantasy-cricket-predictor) | Scores every player and picks the best valid fantasy eleven for an upcoming match, with an explanation | React, Redux Toolkit, Node.js, Express, MongoDB, Gemini API, Jest | [Live](https://fantasy-cricket-predictor.vercel.app/) |
-| [Invoisify](https://github.com/samirsuroshe18/invoisify) | Create invoices, email them with a public link and PDF, and track what is paid | React, Node.js, Express, MongoDB, Tailwind CSS | [Live](https://invoisify-s.vercel.app) |
-| [InfluenceIQ](https://github.com/samirsuroshe18/influenceiq) | Shows how social media posts perform and answers questions about the data, on a sample or your own CSV | React, Chart.js, Node.js, Express, MongoDB, Gemini API | [Live](https://influenceiq-s.vercel.app) |
-| [My Portfolio](https://github.com/samirsuroshe18/My-Portfolio) | Portfolio site with an admin dashboard that edits all of its content | React, Vite, Tailwind CSS, Node.js, Express, MongoDB | [Live](https://samirsuroshe.vercel.app/) |
-
 ### Mobile
 
 | Project | What it does | Stack | Try it |
@@ -57,6 +48,15 @@ I-am-samirsuroshe18@github
 | [AdVise](https://github.com/samirsuroshe18/advise) | Level SuperMind Hackathon 2025 | Turns a topic into an audience research report from public YouTube and Hacker News discussion | [Live](https://ad-vise.vercel.app) |
 | [College Transparency System](https://github.com/samirsuroshe18/college-transparency-system) | HackFusion 2.0 | A portal where a college runs elections, complaints, bookings, applications and budgets in the open | [Live](https://college-transparency-system.vercel.app) |
 | [AlumniNest](https://github.com/samirsuroshe18/alumninest) | Scroll Hacks 2024 | Connects students with alumni for mentorship, job posts and live chat | [Live](https://alumninest-s.vercel.app) |
+
+### Web
+
+| Project | What it does | Stack | Try it |
+|---|---|---|---|
+| [Fantasy Cricket Predictor](https://github.com/samirsuroshe18/fantasy-cricket-predictor) | Scores every player and picks the best valid fantasy eleven for an upcoming match, with an explanation | React, Redux Toolkit, Node.js, Express, MongoDB, Gemini API, Jest | [Live](https://fantasy-cricket-predictor.vercel.app/) |
+| [Invoisify](https://github.com/samirsuroshe18/invoisify) | Create invoices, email them with a public link and PDF, and track what is paid | React, Node.js, Express, MongoDB, Tailwind CSS | [Live](https://invoisify-s.vercel.app) |
+| [InfluenceIQ](https://github.com/samirsuroshe18/influenceiq) | Shows how social media posts perform and answers questions about the data, on a sample or your own CSV | React, Chart.js, Node.js, Express, MongoDB, Gemini API | [Live](https://influenceiq-s.vercel.app) |
+| [My Portfolio](https://github.com/samirsuroshe18/My-Portfolio) | Portfolio site with an admin dashboard that edits all of its content | React, Vite, Tailwind CSS, Node.js, Express, MongoDB | [Live](https://samirsuroshe.vercel.app/) |
 
 <br>
 
