@@ -28,6 +28,7 @@ I-am-samirsuroshe18@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
+<br clear="left">
 
 ## Open Source
 
@@ -35,9 +36,7 @@ I-am-samirsuroshe18@github
 |---|---|---|
 | [AnkiDroid](https://github.com/ankidroid/Anki-Android), the Android flashcards app with 11k+ stars | [Fix: Enter triggers OK without extra press](https://github.com/ankidroid/Anki-Android/pull/18354). The sync error dialog needed a second key press to close; Enter now confirms it directly. | Merged, June 2025 |
 
-I'm looking for more projects to contribute to, mainly Android (Kotlin, Java),
-Flutter and the JavaScript stack. If you maintain one and have an issue that
-needs a hand, I'd like to hear about it.
+I'm looking for more projects to contribute to, mainly Android (Kotlin, Java), Flutter and the JavaScript stack. If you maintain one and have an issue that needs a hand, I'd like to hear about it.
 
 ## Experience
 
@@ -120,10 +119,10 @@ Every project here has a live site or an APK you can try.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samirsuroshe18&theme=dark&hide_border=true#gh-dark-mode-only" alt="Contribution streak" height="165" />
-  <img src="https://streak-stats.demolab.com?user=samirsuroshe18&theme=default&hide_border=true#gh-light-mode-only" alt="Contribution streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsuroshe18&layout=compact&langs_count=8&theme=dark&hide_border=true#gh-dark-mode-only" alt="Most used languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsuroshe18&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" alt="Most used languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samirsuroshe18&show_icons=true&hide=stars,contribs,issues&hide_rank=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samirsuroshe18&show_icons=true&hide=stars,contribs,issues&hide_rank=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsuroshe18&layout=compact&langs_count=8&theme=dark&hide_border=true#gh-dark-mode-only" alt="Most used languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsuroshe18&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" alt="Most used languages" height="150" />
 </p>
 
 <br>
